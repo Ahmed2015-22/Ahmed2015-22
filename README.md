@@ -6,7 +6,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=2CB5F7&random=false&width=435&lines=Software+Testing+Engineer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=2CB5F7&random=false&width=435&lines=Test+Automation+Engineer" alt="Typing SVG" /></a>
 </p> 
 
 - 🏢 I'm a Software Testing & Quality Assurance Engineer.
